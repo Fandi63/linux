@@ -1,3 +1,14 @@
+// (c) 2023 Fanda Peroutka(Fandi63)
+
+// Github page: https://github.com/Fandi63
+//  --------------------------
+//           PASM
+//     a simple compiler
+//     for its own assembly
+//  --------------------------
+//
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
